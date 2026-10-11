@@ -734,7 +734,7 @@ on 500 evaluation queries using `articleType` as the category-based relevance cr
 
 # 👤 Author
 
-## Harshal
+## Anuja
 
 
 
@@ -756,7 +756,7 @@ https://huggingface.co/datasets/GangHitman/fashion-recommendation-images
 
 ---
 
-**Made by Harshal — Fashion Vision v1.0.0**
+**Made by Anuja — Fashion Vision v1.0.0**
 
 
 
